@@ -9,8 +9,6 @@ To get started with these scripts, follow these steps:
 
 1.  Clone this repository to your local machine using the following command:
     
-    bashCopy code
-    
     `git clone https://github.com/ghulamrasuldev/python-scripts.git` 
     
 2.  Navigate to the folder where you cloned the repository and open the script you want to use in your preferred text editor.
@@ -21,13 +19,9 @@ To get started with these scripts, follow these steps:
     
 5.  To run the Python script, open your terminal/command prompt and navigate to the folder where the script is located using the `cd` command. For example, if your script is in a folder called "image-converter," you would type:
     
-    bashCopy code
-    
     `cd /path/to/image-converter` 
     
 6.  Then, to run the script, type:
-    
-    Copy code
     
     `python script_name.py` 
     
